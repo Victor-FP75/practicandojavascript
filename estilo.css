@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: blue;
+    padding: 15px;
+}
+
+.miFormulario > label{
+    color:crimson;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    border: blueviolet;
+    padding: 20px;
+    border-color: 1px salmon;
+    font-weight: 13px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+footer{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+button{
+    background-color: cornflowerblue;
+    color: black;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 18px;
+    border-radius: 8px;
+    margin-left: 30px;
+    border: none;
+}
+
+.miFormulario > .dPC{
+    color: blueviolet;
+    font-size: 20px;
+}
